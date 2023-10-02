@@ -1,0 +1,4 @@
+/node_modules/*
+/node_modules
+/vscode_cli.tar.gz
+/package-lock.json
